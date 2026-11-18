@@ -1,5 +1,5 @@
 ---
-name: space-sync
+name: folder-crystallizer
 description: "Scans shared spaces (folders with .agents/), detects file deltas, extracts structured facts, and updates .agents/state/*.md and OVERVIEW.md deterministically."
 version: 1.0.0
 author: Emanuel Gössler

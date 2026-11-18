@@ -13,7 +13,7 @@ Dieses Repository sammelt modulare Erweiterungen für das [Groundsole](https://g
 | :--- | :--- | :--- |
 | **`document-export`** | Erstellt formatierte Microsoft-Word-Dokumente (`.docx`) und druckfertige PDFs aus Markdown-Notizen. | Headless Chrome / Pandoc |
 | **`presentation-deck`** | Eigenständige, interaktive 16:9-HTML-Präsentationen mit Markdown als zentraler Quelle und Tastatur-Steuerung. | Moderner Browser |
-| **`space-sync`** | Synchronisiert geteilte lokale Ordner automatisch und übernimmt Fakten aus PDFs und Tabellen ins Gedächtnis. | Keine (Plaintext / Python) |
+| **`folder-crystallizer`** | Synchronisiert geteilte lokale Ordner automatisch und übernimmt Fakten aus PDFs und Tabellen ins Gedächtnis. | Keine (Plaintext / Python) |
 | **`mail-manager`** | Prüft eingehende E-Mails und entwirft oder sendet Nachrichten über IMAP/SMTP (Gmail, Outlook usw.). | Python IMAP/SMTP |
 | **`youtube-transcript`** | Lädt vollständige Transkripte von YouTube-Videos deterministisch über die lokale Kommandozeile. | YouTube API / yt-dlp |
 

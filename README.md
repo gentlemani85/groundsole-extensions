@@ -13,7 +13,7 @@ This repository contains modular, application-level extensions and curated refer
 | :--- | :--- | :--- |
 | **`document-export`** | Generates formatted Microsoft Word (`.docx`) documents and print-ready PDFs from Markdown notes. | Headless Chrome / Pandoc |
 | **`presentation-deck`** | Self-contained, interactive 16:9 HTML presentations with Markdown SSOT and live keyboard navigation. | Modern Browser |
-| **`space-sync`** | Autonomous cognitive hub synchronizer for shared local folders (extracts facts from incoming PDFs/spreadsheets). | None (Plaintext / Python) |
+| **`folder-crystallizer`** | Autonomous cognitive hub synchronizer for shared local folders (extracts facts from incoming PDFs/spreadsheets). | None (Plaintext / Python) |
 | **`mail-manager`** | Checks incoming emails and drafts/sends messages via standard IMAP/SMTP (Gmail, Outlook). | Python IMAP/SMTP |
 | **`youtube-transcript`** | Deterministically fetches and analyzes full transcripts from YouTube URLs via local CLI. | YouTube API / yt-dlp |
 
